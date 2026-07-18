@@ -241,5 +241,5 @@ The API returns consistent error responses across all endpoints:
 **Erdenesuren Shirmen**
 Senior Computer Science Student — Missouri State University (Graduating July 2026)
 
-GitHub:(https://github.com/erdkash1)
+GitHub:(https://github.com/mahtoraushan999)
 LinkedIn: https://linkedin.com/in/erdenesuren-shirmen-0912b425b)
