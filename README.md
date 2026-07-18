@@ -242,4 +242,4 @@ The API returns consistent error responses across all endpoints:
 Senior Computer Science Student — Missouri State University (Graduating July 2026)
 
 GitHub:(https://github.com/mahtoraushan999)
-LinkedIn: https://linkedin.com/in/erdenesuren-shirmen-0912b425b)
+LinkedIn:(https://www.linkedin.com/in/raushan-kumar-6a1171382/)
